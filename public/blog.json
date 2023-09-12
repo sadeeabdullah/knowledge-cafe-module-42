@@ -1,0 +1,53 @@
+
+[
+    {
+        "id": "1001",
+        "author": "Jessica Turner",
+        "author_img": "https://i.ibb.co/T2sRwGn/retrosupply-j-Lw-VAUt-LOAQ-unsplash.jpg",
+        "cover": "https://example.com/book_cover_1.jpg",
+        "title": "The Enchanted Quest",
+        "posted_date": "2023-09-20",
+        "reading_time": 45,
+        "hashtags": ["#fantasy", "#adventure", "#magic"]
+    },
+    {
+        "id": "1002",
+        "author": "Daniel Smith",
+        "author_img": "https://i.ibb.co/0MvZjbC/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+        "cover": "https://example.com/book_cover_2.jpg",
+        "title": "Galactic Chronicles",
+        "posted_date": "2023-09-18",
+        "reading_time": 60,
+        "hashtags": ["#sciencefiction", "#space", "#exploration"]
+    },
+    {
+        "id": "1003",
+        "author": "Olivia White",
+        "author_img": "https://i.ibb.co/KV8rJVZ/Green-Illustrated-Mystical-Forest-Desktop-Wallpaper-1360-768-px.gif",
+        "cover": "https://example.com/book_cover_3.jpg",
+        "title": "Lost in Time",
+        "posted_date": "2023-09-16",
+        "reading_time": 35,
+        "hashtags": ["#timetravel", "#adventure", "#history"]
+    },
+    {
+        "id": "1004",
+        "author": "William Adams",
+        "author_img": "https://i.ibb.co/SVCZc08/image.jpg",
+        "cover": "https://example.com/book_cover_4.jpg",
+        "title": "Culinary Delights",
+        "posted_date": "2023-09-14",
+        "reading_time": 50,
+        "hashtags": ["#cooking", "#foodie", "#recipes"]
+    },
+    {
+        "id": "1005",
+        "author": "Sophia Anderson",
+        "author_img": "https://i.ibb.co/SJmtZFP/taras-shypka-i-FSvn82-Xf-Go-unsplash.jpg",
+        "cover": "https://example.com/book_cover_5.jpg",
+        "title": "The Art of Photography",
+        "posted_date": "2023-09-12",
+        "reading_time": 40,
+        "hashtags": ["#photography", "#creativity", "#visualart"]
+    }
+]
